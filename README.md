@@ -1,32 +1,22 @@
-# Challenge-2-portfolio
-# <Your-Project-Title>
+# <Build-A-Portfolio>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+A portfolio is an excellent way to showcase talents and skills to employers seeking to fill a job position.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+A portfolio must include:
+- devloper's name, photo, and links in the navigation that include sections about them, work, and how to contact
+- the links in the navigation scrolls to the corresponding section when clicked
+- the work section includes titled images of developer's application
+- the application's images should enlarge when user scrolls over applications
+- the applications are linked to deployed applications when clicked
+- the page has a responsive layout 
 
 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+User can find deployed app at [GitHub](https://babylex710.github.io/Challenge-2-portfolio/)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
+The following image shows the web application's appearance:
+![alt screenshot](./assets/images/lernantino____web_developer.gif)
