@@ -84,7 +84,7 @@ a {
 .selfie {
     height: 350px;
     width: 210px;
-    align-items: flex-start;
+    align-items: left;
     position: relative;
 }
 
