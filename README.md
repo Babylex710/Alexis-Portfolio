@@ -1,4 +1,4 @@
-# <Build-A-Portfolio>
+# Build-A-Portfolio
 
 ## Description
 
@@ -16,7 +16,7 @@ A portfolio must include:
 
 ## Usage
 
-User can find deployed app at [GitHub](https://babylex710.github.io/Challenge-2-portfolio/)
+User can find deployed app at [GitHub](https://babylex710.github.io/Alexis-Portfolio/)
 
 The following image shows the web application's appearance:
 ![alt screenshot](./assets/images/lernantino____web_developer.gif)
