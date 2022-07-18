@@ -19,4 +19,4 @@ A portfolio must include:
 User can find deployed app at [GitHub](https://babylex710.github.io/Alexis-Portfolio/)
 
 The following image shows the web application's appearance:
-![alt screenshot](./assets/images/lernantino____web_developer.gif)
+![alt screenshot](./assets/images/portfolio%20SC.png)

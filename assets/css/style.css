@@ -23,12 +23,12 @@ body {
 }
 
 .header nav {
- font-size: 18px;
- margin-right: 25px;
- padding-top: 20px;
- float: right;
- display: flex;
- justify-content: flex-end;
+    font-size: 18px;
+    margin-right: 25px;
+    padding-top: 20px;
+    float: right;
+    display: flex;
+    justify-content: flex-end;
 }
 
 
@@ -111,16 +111,13 @@ header nav ul li a:hover {
     flex-direction: column;
     flex-wrap: wrap;
     float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
 }
 
 .image:hover {
     transform: scale(1.5);
-}
-
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
 }
 
 #contact-me ul {
@@ -137,7 +134,7 @@ header nav ul li a:hover {
 }
 
 /* Added a hover element to Contact section */
-#contact-me ul li a:hover{
+#contact-me ul li a:hover {
     color: lime;
 }
 
@@ -147,17 +144,19 @@ header nav ul li a:hover {
 }
 
 /* Added media query for responsive layout */
-@media  screen and (max-width: 1189px) {
+@media screen and (max-width: 1189px) {
     .image {
         width: 100%;
     }
 }
+
 @media screen and (max-width: 500px) {
     .about {
         flex-direction: column;
     }
+
     .about div {
         border-left: 0px;
         border-top: solid darkblue 5px;
     }
-  }
+}
